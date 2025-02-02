@@ -7,4 +7,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
