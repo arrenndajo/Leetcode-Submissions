@@ -8,10 +8,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
 |  |
