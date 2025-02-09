@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0069-sqrtx) |
 ## Array
 |  |
@@ -25,9 +26,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
