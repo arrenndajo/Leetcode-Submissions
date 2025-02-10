@@ -1,19 +1,19 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        carry = 0
-        res = []
-        
-        idxA, idxB = len(a) - 1, len(b) - 1
-        
-        while idxA >= 0 or idxB >= 0 or carry == 1:
-            if idxA >= 0:
-                carry += int(a[idxA])
-                idxA -= 1            
-            if idxB >= 0:
-                carry += int(b[idxB])
-                idxB -= 1            
+        result = ""
+        carry = 0 
 
-            res.append(str(carry % 2))
-            carry = carry // 2
-            
-        return "".join(res[::-1])
+        a, b = a[::-1], b[::-1]
+
+        for i in range(max(len(a), len(b))):
+            digitA = ord(a[i]) - ord("0") if i < len(a) else 0
+            digitB = ord(b[i]) - ord("0") if i < len(b) else 0
+
+            total = digitA + digitB + carry
+            char = str(total % 2)
+            result = char + result
+            carry = total // 2
+
+        if carry != 0:
+            result = "1" + result
+        return result
