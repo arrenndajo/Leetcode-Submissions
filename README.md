@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
