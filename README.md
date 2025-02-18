@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
