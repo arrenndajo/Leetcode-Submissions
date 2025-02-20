@@ -1,6 +1,9 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        # Hashset: TC:O(n), SC:O(n)
+        # Brute force: TC:O(n^2), SC:O(1) - Worst TC
+        # Sort: TC:O(nlogn), SC:O(1) - Better TC
+
+        # Hashset: TC:O(n), SC:O(n) - Best TC
         hashset = set()
 
         for n in nums:
