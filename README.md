@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
