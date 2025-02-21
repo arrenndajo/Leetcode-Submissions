@@ -3,7 +3,7 @@ class Solution:
         maxCandies = max(candies)
         result = []
         for i in range(len(candies)):
-            if candies[i]+extraCandies >= maxCandies:
+            if candies[i] + extraCandies >= maxCandies:
                 result.append(True)
             else:
                 result.append(False)
