@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
