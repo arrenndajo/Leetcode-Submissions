@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
