@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -54,11 +56,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -71,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
