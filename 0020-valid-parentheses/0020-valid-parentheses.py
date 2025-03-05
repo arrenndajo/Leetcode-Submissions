@@ -13,4 +13,4 @@ class Solution:
             else: 
                 stack.append(p)
 
-        return True if not stack else False
+        return True if not stack else False # here, not stack means stack not equal to empty
