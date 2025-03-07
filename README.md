@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2551-apply-operations-to-an-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [2551-apply-operations-to-an-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
