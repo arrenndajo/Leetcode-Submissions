@@ -1,5 +1,14 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        return (cntD:=sum(y<x for x, y in pairwise(nums)))==0 or (cntD==1 and nums[-1]<=nums[0])
+        N = len(nums)
+        count = 1
 
+        for i in range(1, 2 * N):
+            if nums[(i - 1) % N] <= nums[i % N]:
+                count += 1
+            else:
+                count = 1
+            if count == N:
+                return True
         
+        return N == 1
