@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
