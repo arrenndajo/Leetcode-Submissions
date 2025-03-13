@@ -3,13 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        k = k % len(nums)
+        l, r = 0, len(nums) - 1
+        while l < r:
+            nums[l], nums[r] = nums[r], nums[l]
+            l, r = l + 1, r - 1
 
-        n = len(nums)
-        k = k % n
-        rotated = [0] * n
+        l, r = 0, k - 1
+        while l < r:
+            nums[l], nums[r] = nums[r], nums[l]
+            l, r = l + 1, r - 1
 
-        for i in range(n):
-            rotated[(i + k) % n] = nums[i]
-        
-        for i in range(n):
-            nums[i] = rotated[i]
+        l, r = k, len(nums) - 1
+        while l < r:
+            nums[l], nums[r] = nums[r], nums[l]
+            l, r = l + 1, r - 1
