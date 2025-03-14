@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
