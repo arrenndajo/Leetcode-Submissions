@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 ## Stack
 |  |
