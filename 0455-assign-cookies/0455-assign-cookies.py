@@ -1,11 +1,14 @@
 class Solution:
-    # Please upvote my solution
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
-        l = 0
-        g.sort()
-        s.sort()
-        for cSize in s:
-            if cSize >= g[l]:
-                l += 1
-                if l == len(g): break
-        return l
+        g.sort() #sorting the 'greed factor'
+        s.sort() #sorting the 'size of cookie'
+
+        i = j = 0 
+        while i < len(g): 
+            while j < len(s) and g[i] > s[j]:
+                j += 1
+            if j == len(s):
+                break
+            i += 1
+            j += 1
+        return i
