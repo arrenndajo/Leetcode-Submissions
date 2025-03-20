@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0941-sort-array-by-parity](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0958-sort-array-by-parity-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0958-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
