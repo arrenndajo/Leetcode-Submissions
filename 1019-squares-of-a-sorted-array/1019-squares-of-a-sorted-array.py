@@ -11,4 +11,4 @@ class Solution:
             else:
                 res.append(nums[r])
                 r -= 1
-        return res[::-1]
+        return res[::-1] #reverse order print
