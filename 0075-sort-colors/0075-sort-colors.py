@@ -1,12 +1,18 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        count = {}
-        for i in range(len(nums)):
-            count[nums[i]] = count.get(nums[i], 0) + 1
-        
-        idx = 0
+        l, r = 0, len(nums)-1
+        i = 0
 
-        for color in range(3):
-            freq = count.get(color, 0)
-            nums[idx : idx + freq] = [color] * freq
-            idx += freq
+        def swap(i, j):
+            nums[i], nums[j] = nums[j], nums[i]
+
+        while i <= r:
+            if nums[i] == 0:
+                swap(l, i)
+                l += 1
+            elif nums[i] == 2:
+                swap(i, r)
+                r -= 1
+                i -= 1
+            i += 1
+            
