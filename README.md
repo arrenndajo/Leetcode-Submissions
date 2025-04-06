@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0075-sort-colors) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
