@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0136-single-number) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
@@ -182,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
