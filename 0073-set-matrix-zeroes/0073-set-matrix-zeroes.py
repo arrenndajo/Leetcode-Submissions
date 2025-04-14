@@ -1,50 +1,28 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
-        rows = len(matrix)
-        cols = len(matrix[0])
+        # O(1)
+        ROWS, COLS = len(matrix), len(matrix[0])
+        rowZero = False
 
-        first_row_has_zero = False        
-        first_col_has_zero = False
-
-        # check if the first row contains zero
-        for c in range(cols):
-            if matrix[0][c] == 0:
-                first_row_has_zero = True
-                break
-
-        # check if the first column contains zero
-        for r in range(rows):
-            if matrix[r][0] == 0:
-                first_col_has_zero = True
-                break
-        
-        # use the first row and column as a note
-        for r in range(1, rows):
-            for c in range(1, cols):
+        # Determine which rows/cols need to be zero
+        for r in range(ROWS):
+            for c in range(COLS):
                 if matrix[r][c] == 0:
-                    matrix[r][0] = 0
                     matrix[0][c] = 0
-        
-        # set the marked rows to zero
-        for r in range(1, rows):
-            if matrix[r][0] == 0:
-                for c in range(1, cols):
+                    if r > 0:
+                        matrix[r][0] = 0
+                    else:
+                        rowZero = True
+
+        for r in range(1, ROWS):
+            for c in range(1, COLS):
+                if matrix[0][c] == 0 or matrix[r][0] == 0:
                     matrix[r][c] = 0
 
-        # set the marked columns to zero
-        for c in range(1, cols):
-            if matrix[0][c] == 0:
-                for r in range(1, rows):
-                    matrix[r][c] = 0
-    
-        # set the first row to zero if needed
-        if first_row_has_zero:
-            for c in range(cols):
-                matrix[0][c] = 0
-
-        # set the first column to zero if needed
-        if first_col_has_zero:
-            for r in range(rows):
+        if matrix[0][0] == 0:
+            for r in range(ROWS):
                 matrix[r][0] = 0
-        
-        return matrix
+
+        if rowZero:
+            for c in range(COLS):
+                matrix[0][c] = 0
