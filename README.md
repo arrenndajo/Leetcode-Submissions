@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arrenndajo/Leetcode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
